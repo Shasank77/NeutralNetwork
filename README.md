@@ -1,2 +1,2 @@
 # NeutralNetwork
-compiling and training a neural network model
+this is a pratice course for Llearning on Neural Networks and Convolutional Neural Networks Essential Training by Jnathan fernandes.
